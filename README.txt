@@ -2,7 +2,7 @@ This is a simple Processing sketch to convert images to .xbm format. Tested with
 
 Example Processing Code to convert images to .xbm format for our Epaper Displays.
 
-	Works with all our Epaper developement boards: 
+	Works with all our Epaper development boards: 
 		http://www.jayconsystems.com/epaper-development-board-v1-1-44.html
 		http://www.jayconsystems.com/epaper-development-board-v1-2-0.html
 		http://www.jayconsystems.com/epaper-development-board-v1-2-7.html
